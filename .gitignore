@@ -1,0 +1,3 @@
+.idea/
+bin/*.js*
+node_modules
